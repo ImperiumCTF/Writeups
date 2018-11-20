@@ -11,5 +11,5 @@ When we open the challenge, we can see that we are presented with Ship leaderboa
 
 We can just query all records by using the following payload: **' or 'x'='x**  
 
-**Flag:**
+**Flag:**  
 RITSEC{hey_there_h4v3_s0me_point$_3ny2Lx}
